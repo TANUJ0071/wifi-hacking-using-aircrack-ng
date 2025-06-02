@@ -105,4 +105,10 @@ Popular wordlists for password cracking:
 - SecLists (https://github.com/danielmiessler/SecLists)
 - CrackStation wordlist (https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
 
+  ## Legal & Ethical Notice
+- This guide is for **educational purposes only**.
+- Unauthorized WiFi hacking is **illegal** in most countries.
+- Only test networks you own or have **explicit permission** to audit.
+- The author is not responsible for misuse of this information.
+
 Happy (ethical) hacking! 😊
