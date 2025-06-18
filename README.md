@@ -111,4 +111,4 @@ Popular wordlists for password cracking:
 - Only test networks you own or have **explicit permission** to audit.
 - The author is not responsible for misuse of this information.
 
-Happy (ethical) hacking! 😊
+Happy (Ethical) hacking! 😊
