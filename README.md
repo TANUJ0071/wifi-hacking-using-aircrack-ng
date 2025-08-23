@@ -101,7 +101,7 @@ This guide is for educational and authorized penetration testing purposes only. 
 ## Wordlists
 
 Popular wordlists for password cracking:
-- rockyou.txt (included in Kali Linux)
+- rockyou.txt (Download from Github)
 - SecLists (https://github.com/danielmiessler/SecLists)
 - CrackStation wordlist (https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
 
